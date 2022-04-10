@@ -1,0 +1,19 @@
+#first{
+    border:3px solid rgb(0, 0, 0);
+    border-radius:5px;
+    width:144px;
+    height:144px;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#first:hover{
+opacity:0.5;
+transform: scale(1.1);
+}
+#button{
+    width: auto;
+    
+}
